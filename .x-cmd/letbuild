@@ -1,0 +1,4 @@
+
+git clone git@github.com:x-cmd-builder/$(x ws name) app
+cd app
+xws build
